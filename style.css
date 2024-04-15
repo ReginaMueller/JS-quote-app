@@ -1,0 +1,28 @@
+html {
+  box-sizing: border-box;
+}
+
+header {
+  background-color: aliceblue;
+  display: flex;
+  padding: 2rem;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button {
+  padding: 1rem;
+  background-color: Dodgerblue;
+  color: white;
+  border: none;
+  margin: 0;
+}
+
+.quote {
+  font-size: larger;
+}
+
+.author {
+  font-size: medium;
+  color: #777;
+}
